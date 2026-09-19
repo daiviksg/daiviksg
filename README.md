@@ -61,9 +61,9 @@ Looking for roles in backend systems, ML infrastructure, or full-stack work. Rem
 
 ## Let's Connect
 
-- **Email:** [your email]
+- **Email:** daiviksg9@gmail.com
 - **Portfolio:** https://dedwiks.github.io/Daivik-Portfolio/
-- **LinkedIn:** [your LinkedIn]
+- **LinkedIn:** https://www.linkedin.com/in/daivik-s-gokhale-986516162/
 - **Open to:** Freelance projects, contract work, remote FTE positions
 
 Questions? Collaboration ideas? Just want to chat about systems design? Hit me up.
