@@ -14,14 +14,11 @@ import json
 import os
 from datetime import date, timedelta
 
-# GitHub serves repo-committed SVGs (raw.githubusercontent.com, and CDN
-# mirrors like jsdelivr) with response headers that block SMIL/CSS
-# animation for cross-origin <img>-embedded SVGs - which is exactly how a
-# README references this file. So by default we render every box already
-# fully revealed (no animation dependency) - set ANIMATE=1 to get the
-# diagonal reveal instead, for contexts that DO run it (opening the raw
-# SVG file directly in a browser tab).
-ANIMATE = os.environ.get("ANIMATE") == "1"
+# Confirmed live on GitHub (same as the other cards) that CSS/SMIL
+# animation in an <img>-embedded README SVG does play - the earlier
+# assumption that GitHub strips it was wrong. Animates by default; set
+# ANIMATE=0 for a static fallback if ever needed.
+ANIMATE = os.environ.get("ANIMATE", "1") == "1"
 
 DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "contributions.json")
 OUT_PATH = os.path.join(os.path.dirname(__file__), "..", "contrib-heatmap.svg")
