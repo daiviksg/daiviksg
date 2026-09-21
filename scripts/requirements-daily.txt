@@ -1,0 +1,6 @@
+# Used by .github/workflows/update-profile-art.yml - only what
+# fetch_contributions.py + render_heatmap_svg.py need. Keeping this
+# separate from requirements.txt means the daily cron doesn't reinstall
+# opencv/rembg or re-download rembg's ~1GB model every run.
+requests==2.32.3
+beautifulsoup4==4.12.3
