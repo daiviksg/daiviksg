@@ -6,17 +6,8 @@
     .day-label { fill: #8b949e; }
     .legend-label { fill: #8b949e; font-size: 10px; }
     .footer { fill: #8b949e; font-size: 11px; }
-    .cell {
-      opacity: 0;
-      transform: translateY(-6px);
-      transform-box: fill-box;
-      transform-origin: center;
-      animation: reveal 0.5s ease-out forwards;
-    }
-    @keyframes reveal {
-      to { opacity: 1; transform: translateY(0); }
-    }
-    .d0 { animation-delay: 0.0s; } .d1 { animation-delay: 0.04s; } .d2 { animation-delay: 0.08s; } .d3 { animation-delay: 0.12s; } .d4 { animation-delay: 0.16s; } .d5 { animation-delay: 0.2s; } .d6 { animation-delay: 0.24s; } .d7 { animation-delay: 0.28s; } .d8 { animation-delay: 0.32s; } .d9 { animation-delay: 0.36s; } .d10 { animation-delay: 0.4s; } .d11 { animation-delay: 0.44s; } .d12 { animation-delay: 0.48s; } .d13 { animation-delay: 0.52s; } .d14 { animation-delay: 0.56s; } .d15 { animation-delay: 0.6s; } .d16 { animation-delay: 0.64s; } .d17 { animation-delay: 0.68s; } .d18 { animation-delay: 0.72s; } .d19 { animation-delay: 0.76s; } .d20 { animation-delay: 0.8s; } .d21 { animation-delay: 0.84s; } .d22 { animation-delay: 0.88s; } .d23 { animation-delay: 0.92s; } .d24 { animation-delay: 0.96s; } .d25 { animation-delay: 1.0s; } .d26 { animation-delay: 1.04s; } .d27 { animation-delay: 1.08s; } .d28 { animation-delay: 1.12s; } .d29 { animation-delay: 1.16s; } .d30 { animation-delay: 1.2s; } .d31 { animation-delay: 1.24s; } .d32 { animation-delay: 1.28s; } .d33 { animation-delay: 1.32s; } .d34 { animation-delay: 1.36s; } .d35 { animation-delay: 1.4s; } .d36 { animation-delay: 1.44s; } .d37 { animation-delay: 1.48s; } .d38 { animation-delay: 1.52s; } .d39 { animation-delay: 1.56s; }
+    
+    
   </style>
   <rect x="0" y="0" width="860" height="159" fill="#0d1117" />
   <text x="32" y="13" class="month-label">Sep</text>

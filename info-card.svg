@@ -12,7 +12,7 @@
     }
     .title { fill: #c9d1d9; font-weight: 600; }
     .prompt-muted { fill: #8b949e; }
-    
+    .line { opacity: 1 !important; transform: none !important; }
   </style>
 
   <rect x="0" y="0" width="490" height="266" rx="8" ry="8" fill="#010409" stroke="#30363d" />
