@@ -10,12 +10,12 @@
 
 <br><br>
 
-<img src="./info-card.svg" width="480" />
+<h3><code>dedwiks@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
 
 <br><br>
 
-<h3><code>dedwiks@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
+<img src="./info-card.svg" width="860" />
 
 <br><br>
 

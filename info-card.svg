@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="490" height="266"
-     viewBox="0 0 490 266"
-     font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="296"
+     viewBox="0 0 860 296"
+     font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">
   <defs>
     <linearGradient id="ibg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#111722"/>
@@ -21,17 +21,17 @@
     
   </style>
 
-  <rect x="0" y="0" width="490" height="266" rx="12" fill="url(#ibg)" />
-  <rect x="0.5" y="0.5" width="489" height="265" rx="12" fill="none" stroke="#30363d" stroke-width="1" />
+  <rect x="0" y="0" width="860" height="296" rx="12" fill="url(#ibg)" />
+  <rect x="0.5" y="0.5" width="859" height="295" rx="12" fill="none" stroke="#30363d" stroke-width="1" />
 
   <!-- title bar -->
-  <line x1="0" y1="30" x2="490" y2="30" stroke="#30363d" />
+  <line x1="0" y1="30" x2="860" y2="30" stroke="#30363d" />
   <circle cx="20" cy="15" r="5" fill="#ff5f56" />
   <circle cx="36" cy="15" r="5" fill="#ffbd2e" />
   <circle cx="52" cy="15" r="5" fill="#27c93f" />
-  <text x="245.0" y="19" text-anchor="middle" class="prompt-muted" font-size="12">dedwiks@github ~ $ neofetch</text>
+  <text x="430.0" y="19" text-anchor="middle" class="prompt-muted" font-size="12">dedwiks@github ~ $ neofetch</text>
 
-  <line x1="26" y1="64" x2="464" y2="64" stroke="#30363d" stroke-width="1" />
+  <line x1="40" y1="64" x2="820" y2="64" stroke="#30363d" stroke-width="1" />
 
-  <g class="line" style="animation-delay:0.15s"><text x="26" y="90" fill="#39d353" font-weight="600">Role</text><text x="116" y="90" fill="#c9d1d9">Software Development Engineer</text></g><g class="line" style="animation-delay:0.29s"><text x="26" y="120" fill="#58a6ff" font-weight="600">Base</text><text x="116" y="120" fill="#c9d1d9">Bengaluru, IN</text></g><g class="line" style="animation-delay:0.43s"><text x="26" y="150" fill="#e3b341" font-weight="600">Stack</text><text x="116" y="150" fill="#c9d1d9">Python · ML · Web · UI/Design · Automation</text></g><g class="line" style="animation-delay:0.57s"><text x="26" y="180" fill="#bc8cff" font-weight="600">Focus</text><text x="116" y="180" fill="#c9d1d9">Freelance clients + remote FTE roles</text></g><g class="line" style="animation-delay:0.71s"><text x="26" y="210" fill="#f78166" font-weight="600">Style</text><text x="116" y="210" fill="#c9d1d9">Full-stack · production-first · self-directed</text></g>
+  <g class="line" style="animation-delay:0.15s"><text x="40" y="96" fill="#39d353" font-weight="600">Role</text><text x="170" y="96" fill="#c9d1d9">Software Development Engineer</text></g><g class="line" style="animation-delay:0.29s"><text x="40" y="130" fill="#58a6ff" font-weight="600">Base</text><text x="170" y="130" fill="#c9d1d9">Bengaluru, IN</text></g><g class="line" style="animation-delay:0.43s"><text x="40" y="164" fill="#e3b341" font-weight="600">Stack</text><text x="170" y="164" fill="#c9d1d9">Python · ML · Web · UI/Design · Automation</text></g><g class="line" style="animation-delay:0.57s"><text x="40" y="198" fill="#bc8cff" font-weight="600">Focus</text><text x="170" y="198" fill="#c9d1d9">Freelance clients + remote FTE roles</text></g><g class="line" style="animation-delay:0.71s"><text x="40" y="232" fill="#f78166" font-weight="600">Style</text><text x="170" y="232" fill="#c9d1d9">Full-stack · production-first · self-directed</text></g>
 </svg>
