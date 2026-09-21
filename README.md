@@ -1,18 +1,21 @@
 <div align="center">
 
 <h3><code>dedwiks@github ~ $ whoami</code></h3>
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="280" /></td>
-<td valign="top"><img src="./wordmark.svg" width="280" /></td>
-<td valign="top"><img src="./info-card.svg" width="300" /></td>
-</tr>
-</table>
+
+<img src="./avi-ascii.gif" width="480" />
+
+<br><br>
+
+<img src="./wordmark.svg" width="480" />
+
+<br><br>
+
+<img src="./info-card.gif" width="480" />
 
 <br><br>
 
 <h3><code>dedwiks@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
+<img src="./contrib-heatmap.gif" width="860" />
 
 <br><br>
 
